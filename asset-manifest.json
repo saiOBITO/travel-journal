@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saiOBITO/travel-journal/static/css/main.97042417.chunk.css",
+    "main.js": "/saiOBITO/travel-journal/static/js/main.c488239d.chunk.js",
+    "main.js.map": "/saiOBITO/travel-journal/static/js/main.c488239d.chunk.js.map",
+    "runtime-main.js": "/saiOBITO/travel-journal/static/js/runtime-main.54baf1c2.js",
+    "runtime-main.js.map": "/saiOBITO/travel-journal/static/js/runtime-main.54baf1c2.js.map",
+    "static/js/2.9581a755.chunk.js": "/saiOBITO/travel-journal/static/js/2.9581a755.chunk.js",
+    "static/js/2.9581a755.chunk.js.map": "/saiOBITO/travel-journal/static/js/2.9581a755.chunk.js.map",
+    "static/js/3.0cb40da6.chunk.js": "/saiOBITO/travel-journal/static/js/3.0cb40da6.chunk.js",
+    "static/js/3.0cb40da6.chunk.js.map": "/saiOBITO/travel-journal/static/js/3.0cb40da6.chunk.js.map",
+    "index.html": "/saiOBITO/travel-journal/index.html",
+    "static/css/main.97042417.chunk.css.map": "/saiOBITO/travel-journal/static/css/main.97042417.chunk.css.map",
+    "static/js/2.9581a755.chunk.js.LICENSE.txt": "/saiOBITO/travel-journal/static/js/2.9581a755.chunk.js.LICENSE.txt",
+    "static/media/pin.0d7f2942.png": "/saiOBITO/travel-journal/static/media/pin.0d7f2942.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54baf1c2.js",
+    "static/js/2.9581a755.chunk.js",
+    "static/css/main.97042417.chunk.css",
+    "static/js/main.c488239d.chunk.js"
+  ]
+}
